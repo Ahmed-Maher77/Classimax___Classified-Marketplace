@@ -5,7 +5,7 @@ Classimax is a feature-rich classified marketplace that allows users to buy and 
 
 <hr/>
 
-🌐**Demo (Live Preview):** <a href="" target="_blank"></a> 
+🌐**Demo (Live Preview):** <a href="https://classimax-marketplace.netlify.app/" target="_blank">https://classimax-marketplace.netlify.app/</a> 
 
 <hr/>
 
